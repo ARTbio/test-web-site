@@ -1,2 +1,2 @@
-### ARTbio Bioinformatics Platform
+## ARTbio Bioinformatics Platform
 Welcome to our new website
