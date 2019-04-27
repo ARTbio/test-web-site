@@ -1,6 +1,6 @@
 ---
 title: ARTbio Bioinformatics Platform
-layout: page
+layout: post
 ---
 
 ## ARTbio Bioinformatics Platform
